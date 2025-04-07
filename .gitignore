@@ -1,0 +1,6 @@
+/target/
+/.classpath
+/.project
+/.sttings/org.eclipse.jdt.core.prefs
+/.sttings/org.eclipse.m2e.core.prefs
+/bin/
