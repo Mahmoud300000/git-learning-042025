@@ -10,6 +10,9 @@ public class Array {
 		
 		System.out.println("Enter the size of Array");
 		int size = s.nextInt();
+		
+		int a[] = new int [size];
+		
 	}
 
 }
