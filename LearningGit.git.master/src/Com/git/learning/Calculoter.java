@@ -31,7 +31,9 @@ public class Calculoter {
 	    		e.printStackTrace();
 	    	}
 	    	return result;
-	    }	
+	    }
+	
+	  int size =13;
 	    	
         }	
 	    	
