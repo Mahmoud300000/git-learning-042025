@@ -7,5 +7,8 @@ public class Calculoter {
 	}
 	
 	String name = "Dee";
-	
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 }
