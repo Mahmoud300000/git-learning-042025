@@ -6,4 +6,6 @@ public class Calculoter {
 		return x + y;
 	}
 	
+	String name = "Dee";
+	
 }
